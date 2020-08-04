@@ -1,2 +1,0 @@
-Link del proyecto de tranformacion de datos:
-https://github.com/atiencia14/Proyecto_Final_SBC.git

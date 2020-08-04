@@ -1,2 +1,0 @@
-URL del repositorio del proyecto de angular:
-https://github.com/CristianGaona/SBC-Covid19-Frontend.git
